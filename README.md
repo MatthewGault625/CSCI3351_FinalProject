@@ -1,1 +1,2 @@
 # CSCI3351_FinalProject
+CSCI 3351 | The final project that we worked on as a group for our AI-Powered Applications course in which I created an AI chat bot using Python. The AI chat bot program can interact with the user by asking currated questions and receiving specific answers in order to schedule an appointment using function calling to return to the user a compulatation of the answers given to the chat bot by the user. This program was run in Jupyter Notebook.
